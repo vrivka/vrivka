@@ -1,4 +1,4 @@
-### Привет 👋, я Влад
+# Привет 👋, я Влад
 
 Навыки: C / C++ / Java / Python / HTML / CSS / JavaScript
 
